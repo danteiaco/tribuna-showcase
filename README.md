@@ -13,9 +13,9 @@
 <br/>
 
 <p align="center">
-  <img src="assets/screenshots/01-feed.jpg" width="240" alt="Social feed" />
-  <img src="assets/screenshots/02-match-detail.jpg" width="240" alt="Match detail" />
-  <img src="assets/screenshots/05-fan-dna.jpg" width="240" alt="Fan DNA profile" />
+  <img src="01-feed.jpg" width="240" alt="Social feed" />
+  <img src="02-match-detail.jpg" width="240" alt="Match detail" />
+  <img src="05-fan-dna.jpg" width="240" alt="Fan DNA profile" />
 </p>
 
 </div>
@@ -37,8 +37,8 @@
 Every match gets a full review flow: an overall star rating plus three sub-scores — **Calidad**, **Emoción**, and **Arbitraje** — and context for *how* you watched it (on TV or at the stadium). Want to go deeper? Rate the individual players straight from the lineup.
 
 <p align="center">
-  <img src="assets/screenshots/03-create-review.jpg" width="250" alt="Create a review" />
-  <img src="assets/screenshots/04-rate-players.jpg" width="250" alt="Rate players from the lineup" />
+  <img src="03-create-review.jpg" width="250" alt="Create a review" />
+  <img src="04-rate-players.jpg" width="250" alt="Rate players from the lineup" />
 </p>
 
 ### 🌐 A living social feed
@@ -46,8 +46,8 @@ Every match gets a full review flow: an overall star rating plus three sub-score
 Reviews flow into a social timeline with **Following** and **Global** views, plus a dedicated **Debate** space. Each match has its own page aggregating community ratings and surfacing the **best and worst player** of the night.
 
 <p align="center">
-  <img src="assets/screenshots/01-feed.jpg" width="250" alt="Reviews feed" />
-  <img src="assets/screenshots/02-match-detail.jpg" width="250" alt="Match detail with best/worst player" />
+  <img src="01-feed.jpg" width="250" alt="Reviews feed" />
+  <img src="02-match-detail.jpg" width="250" alt="Match detail with best/worst player" />
 </p>
 
 ### 🧬 Fan DNA, XP and badges
@@ -55,8 +55,8 @@ Reviews flow into a social timeline with **Following** and **Global** views, plu
 Activity feeds a six-dimension **Fan DNA** profile — *Analítico, Pasional, Crítico, Social, Estadista, Visionario* — visualized as a radar that captures the kind of supporter you are. An **XP and level system** (Hincha → Fanático → Socio → Abonado → Vitalicio) and **54 rarity-based collectible badges**, rendered as custom hexagonal SVG art, keep fans coming back.
 
 <p align="center">
-  <img src="assets/screenshots/05-fan-dna.jpg" width="250" alt="Fan DNA radar and profile" />
-  <img src="assets/screenshots/06-badges.jpg" width="250" alt="XP, levels and badge collection" />
+  <img src="05-fan-dna.jpg" width="250" alt="Fan DNA radar and profile" />
+  <img src="06-badges.jpg" width="250" alt="XP, levels and badge collection" />
 </p>
 
 ### 🔭 Discover matches, teams and fans
@@ -64,9 +64,9 @@ Activity feeds a six-dimension **Fan DNA** profile — *Analítico, Pasional, Cr
 A full discovery layer: ranked **best-rated and most popular matches**, real-time **scores and fixtures** across **50+ leagues**, and a **fan leaderboard** to find and follow other supporters.
 
 <p align="center">
-  <img src="assets/screenshots/07-match-rankings.jpg" width="240" alt="Match rankings" />
-  <img src="assets/screenshots/08-live-scores.jpg" width="240" alt="Live scores and fixtures" />
-  <img src="assets/screenshots/09-explore-fans.jpg" width="240" alt="Explore and follow fans" />
+  <img src="07-match-rankings.jpg" width="240" alt="Match rankings" />
+  <img src="08-live-scores.jpg" width="240" alt="Live scores and fixtures" />
+  <img src="09-explore-fans.jpg" width="240" alt="Explore and follow fans" />
 </p>
 
 ---
